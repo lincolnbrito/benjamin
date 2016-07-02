@@ -2217,7 +2217,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="344.58564"
+     inkscape:cx="393.05941"
      inkscape:cy="192.27638"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2247,13 +2247,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-652.36216)">
-    <rect
-       style="opacity:0.78200001;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect20991"
-       width="800"
-       height="400"
-       x="0"
-       y="652.36218" />
     <g
        id="g8214"
        transform="matrix(1.0519449,0,0,1.0519449,-70.988582,114.23999)">
@@ -3665,6 +3658,13 @@
            id="path8998" />
       </g>
     </g>
+    <rect
+       style="opacity:0.78200001;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect20991"
+       width="800"
+       height="400"
+       x="0"
+       y="652.36218" />
     <g
        id="g10330"
        transform="translate(5.8737134,0)">
