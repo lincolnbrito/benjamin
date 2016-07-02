@@ -1,2 +1,1 @@
-# benjamin
-A small, beautiful and beloved repository
+![Logo](images/logo.png)
